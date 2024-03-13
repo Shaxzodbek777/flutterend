@@ -1,5 +1,7 @@
 
 
+import 'package:get_storage/get_storage.dart';
+
 import '../Modile/membermodule.dart';
 
 class GetService {
